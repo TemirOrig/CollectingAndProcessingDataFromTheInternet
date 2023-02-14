@@ -1,0 +1,51 @@
+{
+    "count": 1,
+    "data": [
+        {
+            "app_temp": -3.2,
+            "aqi": 10,
+            "city_name": "Moscow",
+            "clouds": 87,
+            "country_code": "RU",
+            "datetime": "2023-02-14:11",
+            "dewpt": -3.3,
+            "dhi": 77.54,
+            "dni": 680.11,
+            "elev_angle": 19.21,
+            "ghi": 294.2,
+            "gust": 11.601308,
+            "h_angle": 36,
+            "lat": 55.75222,
+            "lon": 37.61556,
+            "ob_time": "2023-02-14 11:13",
+            "pod": "d",
+            "precip": 0,
+            "pres": 992.16406,
+            "rh": 74,
+            "slp": 1010.4982,
+            "snow": 0,
+            "solar_rad": 147.6,
+            "sources": [
+                "analysis"
+            ],
+            "state_code": "48",
+            "station": "UUMO",
+            "sunrise": "04:54",
+            "sunset": "14:32",
+            "temp": 0.7,
+            "timezone": "Europe/Moscow",
+            "ts": 1676373237,
+            "uv": 0.6852162,
+            "vis": 7,
+            "weather": {
+                "description": "Облачно с прояснениями",
+                "code": 803,
+                "icon": "c03d"
+            },
+            "wind_cdir": "ССЗ",
+            "wind_cdir_full": "Северо-Северо-Западный",
+            "wind_dir": 354,
+            "wind_spd": 3.8306355
+        }
+    ]
+}
